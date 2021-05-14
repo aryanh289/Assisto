@@ -1,0 +1,76 @@
+Version: 2.2.0
+  - Updated Bootstrap to version 4.5.3
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Updated the PHP Email Form to v2.3
+  - Other small fixes and improvements
+
+Version: 2.1.0
+  - Updated Bootstrap to version 4.5.0
+  - Updated the PHP Email Form library to version 2.0 with reCaptcha support
+  - Aded inner-page.html tempalte
+  - Added smooth scroll on page load with hash links in the url
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Other small fixes and improvements
+  
+Version: 2.0.0
+  - The template was rebuilt from scratch with the latest Bootstrap version (4.4.1)
+  - Added SMPTP support for the contact form script (Pro)
+  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
+  
+Version: 1.0.0
+  - Initial Release
+
+
+  <div class="container">       
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>Key</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>User's Name</td>
+        <td>Harsh Aryan</td>
+      </tr>
+      <tr>
+        <td>Phone</td>
+        <td>+91 8737 273816</td>
+      </tr>
+      <tr>
+        <td>Location</td>
+        <td>XXXX - XXXX - XXXX - 987234</td>
+      </tr>
+       <tr>
+        <td>Vehicle</td>
+        <td>Audi A4 TDL - 2016</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+        
+<br>
+<div class="btn-group float-right" role="group" aria-label="Basic example">
+    <button type="button" class="btn btn-md btn-danger float-right" onclick="window.location.href='/Users/harshu/Desktop/college/Assisto/clienttick.html'">Decline</button>
+    <button type="button" class="btn btn-md btn-warning float-right" onclick="window.location.href='/Users/harshu/Desktop/college/Assisto/cost.html'">Accept</button>
+</div>
+
+
+
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Collapsible Group Item #1
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
